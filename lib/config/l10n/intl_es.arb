@@ -1,0 +1,171 @@
+{
+  "@@last_modified": "2018-11-27T15:40:27.591210",
+  "AppLocalizations_emailLabel": "Correo",
+  "@AppLocalizations_emailLabel": {
+    "description": "emailLabel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_discover": "Descubrir",
+  "@AppLocalizations_discover": {
+    "description": "discover",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_forgotPassword": "Olvido su contraseña?",
+  "@AppLocalizations_forgotPassword": {
+    "description": "forgotPassword",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_getDirections": "Obtener Direcciones",
+  "@AppLocalizations_getDirections": {
+    "description": "getDirections",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_forgotPasswordDescription": "Introduzca su correo electronico para recibir un mensaje con instrucciones para reestablecer su contraseña",
+  "@AppLocalizations_forgotPasswordDescription": {
+    "description": "forgotPassword",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_login": "Inicio de sesion",
+  "@AppLocalizations_login": {
+    "description": "login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_loginWithFacebook": "Iniciar sesion con  Facebook",
+  "@AppLocalizations_loginWithFacebook": {
+    "description": "loginWithFacebook",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_loginWithGoogle": "Iniciar sesion con  Google",
+  "@AppLocalizations_loginWithGoogle": {
+    "description": "loginWithGoogle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_nameStringInputErrorText": "El nombre debe contener solo caracteres",
+  "@AppLocalizations_nameStringInputErrorText": {
+    "description": "nameStringInputErrorText",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_noAccountSignUp": "No Tienes una cuenta?",
+  "@AppLocalizations_noAccountSignUp": {
+    "description": "noAccountSignUp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_myLists": "Mis Listas",
+  "@AppLocalizations_myLists": {
+    "description": "myLists",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_phoneInputErrorText": "El Telefono solor debe contener numeros",
+  "@AppLocalizations_phoneInputErrorText": {
+    "description": "Error text for name input",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_invalidEmail": "Correo invalido",
+  "@AppLocalizations_invalidEmail": {
+    "description": "invalidEmail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_or": "ó",
+  "@AppLocalizations_or": {
+    "description": "or",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_offers": "Ofertas",
+  "@AppLocalizations_offers": {
+    "description": "offers",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_passwordLabel": "Contraseña",
+  "@AppLocalizations_passwordLabel": {
+    "description": "passwordLabel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_passwordTooShort": "Contraseña demasiado corta",
+  "@AppLocalizations_passwordTooShort": {
+    "description": "passwordTooShort",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_products": "Productos",
+  "@AppLocalizations_products": {
+    "description": "products",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_profile": "Perfil",
+  "@AppLocalizations_profile": {
+    "description": "profile",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_requiredField": "Campo requerido",
+  "@AppLocalizations_requiredField": {
+    "description": "requiredField",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_rememberme": "Recordame",
+  "@AppLocalizations_rememberme": {
+    "description": "rememberme",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_signUp": "Registrate",
+  "@AppLocalizations_signUp": {
+    "description": "signUp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registration": "Registro",
+  "@AppLocalizations_registration": {
+    "description": "registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registrationWithFacebook": "Regístrate con Facebook",
+  "@AppLocalizations_registrationWithFacebook": {
+    "description": "registrationWithFacebook",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registrationWithGoogle": "Regístrate con Google",
+  "@AppLocalizations_registrationWithGoogle": {
+    "description": "registrationWithGoogle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_search": "Buscar",
+    "@AppLocalizations_search": {
+      "description": "search",
+      "type": "text",
+      "placeholders": {}
+  },
+  "AppLocalizations_seeProducts": "Ver Productos",
+  "@AppLocalizations_seeProducts": {
+    "description": "seeProducts",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_welcomeMessage": "Bienvenido a Kartz!\nLa Mejor compra desde tu bolsillo",
+  "@AppLocalizations_welcomeMessage": {
+    "description": "welcomeMessage",
+    "type": "text",
+    "placeholders": {}
+  }
+}

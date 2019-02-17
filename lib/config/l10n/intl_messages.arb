@@ -1,0 +1,201 @@
+{
+  "@@last_modified": "2018-12-09T16:35:15.162795",
+  "AppLocalizations_cancel": "Choose Your location\nand start shopping",
+  "@AppLocalizations_cancel": {
+    "description": "cancel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_chooseLocation": "Choose Your location\nand start shopping",
+  "@AppLocalizations_chooseLocation": {
+    "description": "chooseLocation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_chooseMyLocation": "Get Or choose My Location",
+  "@AppLocalizations_chooseMyLocation": {
+    "description": "chooseMyLocation",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_discover": "Discover",
+  "@AppLocalizations_discover": {
+    "description": "discover",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_emailLabel": "Email",
+  "@AppLocalizations_emailLabel": {
+    "description": "emailLabel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_forgotPassword": "Forgot Password?",
+  "@AppLocalizations_forgotPassword": {
+    "description": "forgotPassword",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_fullName": "Full Name",
+  "@AppLocalizations_fullName": {
+    "description": "fullName",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_forgotPasswordDescription": "Enter your email adddress to receive an email to restore your password",
+  "@AppLocalizations_forgotPasswordDescription": {
+    "description": "forgotPassword",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_login": "Login",
+  "@AppLocalizations_login": {
+    "description": "login",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_loginWithFacebook": "Login With Facebook",
+  "@AppLocalizations_loginWithFacebook": {
+    "description": "loginWithFacebook",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_loginWithGoogle": "Login With Google",
+  "@AppLocalizations_loginWithGoogle": {
+    "description": "loginWithGoogle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_nameStringInputErrorText": "The Name must contain only characters",
+  "@AppLocalizations_nameStringInputErrorText": {
+    "description": "nameStringInputErrorText",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_noAccountSignUp": "Don't have an account?",
+  "@AppLocalizations_noAccountSignUp": {
+    "description": "noAccountSignUp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_getDirections": "Get Direcions",
+  "@AppLocalizations_getDirections": {
+    "description": "getDirections",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_phoneInputErrorText": "Phone number must be digits only",
+  "@AppLocalizations_phoneInputErrorText": {
+    "description": "Error text for name input",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_invalidEmail": "Not a valid email.",
+  "@AppLocalizations_invalidEmail": {
+    "description": "invalidEmail",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_myLists": "My Lists",
+  "@AppLocalizations_myLists": {
+    "description": "myLists",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_offers": "Offers",
+  "@AppLocalizations_offers": {
+    "description": "offers",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_or": "OR",
+  "@AppLocalizations_or": {
+    "description": "or",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_passwordLabel": "Password",
+  "@AppLocalizations_passwordLabel": {
+    "description": "passwordLabel",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_passwordTooShort": "Password too short",
+  "@AppLocalizations_passwordTooShort": {
+    "description": "passwordTooShort",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_products": "Products",
+  "@AppLocalizations_products": {
+    "description": "products",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_profile": "Profile",
+  "@AppLocalizations_profile": {
+    "description": "profile",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_requiredField": "Required Field",
+  "@AppLocalizations_requiredField": {
+    "description": "requiredField",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_search": "Search",
+  "@AppLocalizations_search": {
+    "description": "search",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_seeProducts": "See Products",
+  "@AppLocalizations_seeProducts": {
+    "description": "seeProducts",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_signUp": "sign Up",
+  "@AppLocalizations_signUp": {
+    "description": "signUp",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_rememberme": "Remember me",
+  "@AppLocalizations_rememberme": {
+    "description": "rememberme",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registration": "Registration",
+  "@AppLocalizations_registration": {
+    "description": "registration",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registrationWithFacebook": "Registration With Facebook",
+  "@AppLocalizations_registrationWithFacebook": {
+    "description": "registrationWithFacebook",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_registrationWithGoogle": "Registration With Google",
+  "@AppLocalizations_registrationWithGoogle": {
+    "description": "registrationWithGoogle",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_skip": "Skip",
+  "@AppLocalizations_skip": {
+    "description": "skip",
+    "type": "text",
+    "placeholders": {}
+  },
+  "AppLocalizations_welcomeMessage": "Welcome to kartz! best mobile\n shopping in your pocket",
+  "@AppLocalizations_welcomeMessage": {
+    "description": "welcomeMessage",
+    "type": "text",
+    "placeholders": {}
+  }
+}

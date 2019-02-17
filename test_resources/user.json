@@ -1,0 +1,24 @@
+{
+  "user":{
+    "id":"asdadsdasdasd",
+    "username":"user",
+    "profileImage":{
+      "width":512,
+      "height":512,
+      "path":"https://pbs.floatplanecdn.com/profile_images/default/user4.png",
+      "childImages":[
+        {
+          "width":250,
+          "height":250,
+          "path":"https://pbs.floatplanecdn.com/profile_images/default/user4_250x250.png"
+        },
+        {
+          "width":100,
+          "height":100,
+          "path":"https://pbs.floatplanecdn.com/profile_images/default/user4_100x100.png"
+        }
+      ]
+    }
+  },
+  "needs2FA":false
+}

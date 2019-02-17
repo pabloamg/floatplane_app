@@ -1,19 +1,15 @@
+import 'package:floatplane/config/ui_data.dart';
 import 'package:flutter/material.dart';
-import 'package:floatplane_app/style/theme.dart';
 
-
-
-
-class UserSettingsPage extends StatelessWidget {
+class UserSettings extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        backgroundColor: colorDark,
-        iconTheme: IconThemeData(color: colorDarkerIcon),
-        title: Text(
-          'Settings'
-        ),
+        elevation: 0.0,
+        backgroundColor: UIData.menuColor,
+        iconTheme: IconThemeData(color: Colors.white),
+        title: Text('Settings'),
       ),
       body: ListView(
         children: <Widget>[
@@ -26,7 +22,8 @@ class UserSettingsPage extends StatelessWidget {
             leading: Icon(Icons.beenhere, color: Colors.white),
           ),
           ListTile(
-            title: Text('Connected Accounts', style: TextStyle(color: Colors.white)),
+            title: Text('Connected Accounts',
+                style: TextStyle(color: Colors.white)),
             leading: Icon(Icons.link, color: Colors.white),
           ),
           ListTile(
@@ -48,6 +45,8 @@ class UserSettingsPage extends StatelessWidget {
           ListTile(
             title: Text('Log out', style: TextStyle(color: Colors.white)),
             leading: Icon(Icons.exit_to_app, color: Colors.white),
+            onTap: () => Navigator.of(context).pushNamedAndRemoveUntil(
+                UIData.loginRoute, ModalRoute.withName(null)),
           )
         ],
       ),
